@@ -1,0 +1,4 @@
+name: MysticWorldBorderAPI
+main: com.github.yannicklamprecht.worldborder.WorldBorderPlugin
+version: "1.0"
+description: MysticWrapper for World Border API written by Yannick Lamprecht.
